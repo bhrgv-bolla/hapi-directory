@@ -1,0 +1,29 @@
+{
+  "name": "hapi-directory",
+  "version": "1.0.0",
+  "description": "Hapi plugin to serve directories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bhrgv-bolla/hapi-directory.git"
+  },
+  "keywords": [
+    "hapi",
+    "plugin",
+    "directory",
+    "zip"
+  ],
+  "author": "Bhargav Bolla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhrgv-bolla/hapi-directory/issues"
+  },
+  "homepage": "https://github.com/bhrgv-bolla/hapi-directory#readme",
+  "dependencies": {
+    "archiver": "^2.1.1",
+    "inert": "^5.1.0"
+  }
+}
