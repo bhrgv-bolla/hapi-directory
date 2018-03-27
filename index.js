@@ -9,5 +9,6 @@ https://hapijs.com/api/16.6.3#serverdecoratetype-property-method-options
 
 const {zipDirectory} = require("./lib/archive-helper");
 const handler = (directoryPath) => {
+    zipDirectory()
 
 }
