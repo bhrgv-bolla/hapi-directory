@@ -24,6 +24,7 @@
   "homepage": "https://github.com/bhrgv-bolla/hapi-directory#readme",
   "dependencies": {
     "archiver": "^2.1.1",
+    "bluebird": "^3.5.1",
     "inert": "^5.1.0"
   }
 }
