@@ -25,6 +25,9 @@
   "dependencies": {
     "archiver": "^2.1.1",
     "bluebird": "^3.5.1",
-    "inert": "^5.1.0"
+    "inert": "^4.2.1"
+  },
+  "devDependencies": {
+    "hapi": "^16.6.3"
   }
 }
